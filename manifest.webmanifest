@@ -1,0 +1,19 @@
+{
+  "name": "Doces da Lua — Cardápio Digital",
+  "short_name": "Doces da Lua",
+  "description": "Cardápio digital da confeitaria artesanal Doces da Lua",
+  "lang": "pt-BR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf5eb",
+  "theme_color": "#32150f",
+  "icons": [
+    {
+      "src": "assets/images/logo-square.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
